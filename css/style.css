@@ -11,3 +11,10 @@ p.intro {
 img.intro {
   align-items: center;
 }
+
+.intro {
+  text-indent: 40px;
+  align-items: center;
+  font-style: italic;
+  font-weight: bold;
+}
